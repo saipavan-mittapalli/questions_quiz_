@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is the fullform of KIMS ?",
+        "choice1": "Kamineni Institute of Management Studies" ,
+        "choice2": "Karimnagar Institute of Management Studies" ,
+        "choice3": "Kakatiya Institute of Management Studies" ,
+        "choice4": "Kakatiya Institute of Medical Sciences" ,
+        "answer": 3
+    },
+    {
+        "question": "In Which Year did KIMS Group of Institutions got Established ?",
+        "choice1": "1992" ,
+        "choice2": "1993" ,
+        "choice3": "1994" ,
+        "choice4": "1995" ,
+        "answer": 2
+    },
+    {
+        "question": "How many Institutions are under KIMS Group of Institutions ?",
+        "choice1": "05" ,
+        "choice2": "06" ,
+        "choice3": "07" ,
+        "choice4": "08" ,
+        "answer": 3
+    },
+    {
+        "question": "Who is the founder of KIMS Group of Institutions ?",
+        "choice1": "P. Saketh Rama Rao Garu" ,
+        "choice2": "P. Devender Rao Garu" ,
+        "choice3": "P. Muthyam Rao Garu" ,
+        "choice4": "Dr. P. Ravinder Rao Garu" ,
+        "answer": 4
+    },
+    {
+        "question": "In Which Year did Hotel Management (BHMCT) got introduced ?",
+        "choice1": "2018" ,
+        "choice2": "2019" ,
+        "choice3": "2020" ,
+        "choice4": "2021" ,
+        "answer": 1
+    },
+    {
+        "question": "First Womens B.Tech College in North part of Telangana ?",
+        "choice1": "Jyothishmathi IInstitute of Technology and Science" ,
+        "choice2": "Sree Chaitanya Institute of Technological Sciences" ,
+        "choice3": "Vageshwari College of Engineering" ,
+        "choice4": "Sahaja Institute of Technology and Sciences" ,
+        "answer": 4
+    },
+    {
+        "question": "KIMS Degree & PG College Building Inaugurated by_ ?",
+        "choice1": "Y. S. Rajashekhar Reddy" ,
+        "choice2": "Nara Chandrababu Naidu Garu" ,
+        "choice3": "Nallala Kiran Kumar Reddy" ,
+        "choice4": "Konijeti Roshaiah" ,
+        "answer": 2
+    },
+    {
+        "question": "First MBA College of North part of Telangana",
+        "choice1": "KIMS" ,
+        "choice2": "Jyothishmathi" ,
+        "choice3": "Vivekananda" ,
+        "choice4": "Sree Chaitanya" ,
+        "answer": 1
+    },
+    {
+        "question": "When did Dr. P. Ravinder Rao Garu got Doctorate ?",
+        "choice1": "1991" ,
+        "choice2": "1992" ,
+        "choice3": "1995" ,
+        "choice4": "1994" ,
+        "answer": 3
+    },
+    {
+        "question": "When did Dr. P.R.R (NGO) Foundation was Established ?",
+        "choice1": "2016" ,
+        "choice2": "2017" ,
+        "choice3": "2015" ,
+        "choice4": "2019" ,
+        "answer": 2
+    }
+]
